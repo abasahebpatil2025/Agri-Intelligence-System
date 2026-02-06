@@ -45,7 +45,7 @@ The platform differentiates itself through three "Hatke" (unique) features:
 
 The Agri-Intelligence platform leverages a modern cloud-native architecture built on AWS services, providing scalable, secure, and reliable agricultural intelligence to Maharashtra farmers.
 
-![Architecture Diagram](agri_intelligence_aws_architecture.png)
+![Architecture](agri_intelligence_aws_architecture.png)
 
 **Architecture Highlights:**
 
@@ -2374,5 +2374,6 @@ This design document provides a comprehensive blueprint for the Agri-Intelligenc
 6. **Scalability**: Extensible architecture for future enhancements
 
 The platform empowers Maharashtra farmers with AI-driven insights, real-time market intelligence, and smart storage management, all delivered through an accessible and professional web interface.
+
 
 
